@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1706520447,,"wq"
+|2,0,1706522184,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,98 @@
 # Registers:
 
 # File marks:
-'0  19  1  ~/scripts/salary.sh
-|4,48,19,1,1706520447,"~/scripts/salary.sh"
-'1  22  1  ~/scripts/age.sh
-|4,49,22,1,1706520329,"~/scripts/age.sh"
-'2  11  1  ~/scripts/filesearch.sh
-|4,50,11,1,1706520206,"~/scripts/filesearch.sh"
+'0  13  18  ~/scripts/age.sh
+|4,48,13,18,1706522184,"~/scripts/age.sh"
+'1  13  16  ~/scripts/salary.sh
+|4,49,13,16,1706521784,"~/scripts/salary.sh"
+'2  1  0  ~/salary.sh
+|4,50,1,0,1706521265,"~/salary.sh"
+'3  22  1  ~/scripts/salary.sh
+|4,51,22,1,1706520447,"~/scripts/salary.sh"
+'4  19  1  ~/scripts/salary.sh
+|4,52,19,1,1706520447,"~/scripts/salary.sh"
+'5  22  1  ~/scripts/age.sh
+|4,53,22,1,1706520329,"~/scripts/age.sh"
+'6  22  1  ~/scripts/age.sh
+|4,54,22,1,1706520329,"~/scripts/age.sh"
+'7  11  1  ~/scripts/filesearch.sh
+|4,55,11,1,1706520206,"~/scripts/filesearch.sh"
 
 # Jumplist (newest first):
+-'  13  18  ~/scripts/age.sh
+|4,39,13,18,1706522184,"~/scripts/age.sh"
+-'  22  1  ~/scripts/age.sh
+|4,39,22,1,1706522027,"~/scripts/age.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706521784,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706521784,"~/scripts/salary.sh"
+-'  22  1  ~/scripts/salary.sh
+|4,39,22,1,1706521345,"~/scripts/salary.sh"
+-'  22  1  ~/scripts/salary.sh
+|4,39,22,1,1706521345,"~/scripts/salary.sh"
+-'  1  0  ~/salary.sh
+|4,39,1,0,1706521265,"~/salary.sh"
+-'  1  0  ~/salary.sh
+|4,39,1,0,1706521265,"~/salary.sh"
+-'  1  0  ~/salary.sh
+|4,39,1,0,1706521265,"~/salary.sh"
+-'  1  0  ~/salary.sh
+|4,39,1,0,1706521265,"~/salary.sh"
 -'  19  1  ~/scripts/salary.sh
 |4,39,19,1,1706520447,"~/scripts/salary.sh"
+-'  19  1  ~/scripts/salary.sh
+|4,39,19,1,1706520447,"~/scripts/salary.sh"
+-'  19  1  ~/scripts/salary.sh
+|4,39,19,1,1706520447,"~/scripts/salary.sh"
+-'  19  1  ~/scripts/salary.sh
+|4,39,19,1,1706520447,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706520420,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706520420,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706520420,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706520420,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706520420,"~/scripts/salary.sh"
 -'  1  0  ~/scripts/salary.sh
 |4,39,1,0,1706520420,"~/scripts/salary.sh"
 -'  22  1  ~/scripts/age.sh
 |4,39,22,1,1706520329,"~/scripts/age.sh"
 -'  22  1  ~/scripts/age.sh
 |4,39,22,1,1706520329,"~/scripts/age.sh"
+-'  22  1  ~/scripts/age.sh
+|4,39,22,1,1706520329,"~/scripts/age.sh"
+-'  22  1  ~/scripts/age.sh
+|4,39,22,1,1706520329,"~/scripts/age.sh"
+-'  22  1  ~/scripts/age.sh
+|4,39,22,1,1706520329,"~/scripts/age.sh"
+-'  22  1  ~/scripts/age.sh
+|4,39,22,1,1706520329,"~/scripts/age.sh"
+-'  22  1  ~/scripts/age.sh
+|4,39,22,1,1706520329,"~/scripts/age.sh"
+-'  22  1  ~/scripts/age.sh
+|4,39,22,1,1706520329,"~/scripts/age.sh"
 -'  1  0  ~/scripts/age.sh
 |4,39,1,0,1706520297,"~/scripts/age.sh"
 -'  1  0  ~/scripts/age.sh
 |4,39,1,0,1706520297,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706520297,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706520297,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706520297,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706520297,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706520297,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706520297,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706520297,"~/scripts/age.sh"
 -'  11  1  ~/scripts/filesearch.sh
 |4,39,11,1,1706520206,"~/scripts/filesearch.sh"
 -'  11  1  ~/scripts/filesearch.sh
@@ -53,6 +125,116 @@
 |4,39,11,1,1706520206,"~/scripts/filesearch.sh"
 -'  11  1  ~/scripts/filesearch.sh
 |4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  11  1  ~/scripts/filesearch.sh
+|4,39,11,1,1706520206,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/filesearch.sh
+|4,39,1,0,1706520187,"~/scripts/filesearch.sh"
 -'  1  0  ~/scripts/filesearch.sh
 |4,39,1,0,1706520187,"~/scripts/filesearch.sh"
 -'  1  0  ~/scripts/filesearch.sh
@@ -64,19 +246,26 @@
 
 # History of marks within files (newest to oldest):
 
-> ~/scripts/salary.sh
-	*	1706520445	0
-	"	19	1
-	^	19	2
-	.	19	1
-	+	19	1
-
 > ~/scripts/age.sh
-	*	1706520327	0
-	"	22	1
-	^	22	2
-	.	22	1
+	*	1706522182	0
+	"	13	18
+	^	13	19
+	.	13	18
 	+	22	1
+	+	13	18
+
+> ~/scripts/salary.sh
+	*	1706521782	0
+	"	13	16
+	^	13	17
+	.	13	16
+	+	22	0
+	+	13	16
+
+> ~/salary.sh
+	*	1706521263	0
+	"	1	0
+	^	1	0
 
 > ~/scripts/filesearch.sh
 	*	1706520204	0
