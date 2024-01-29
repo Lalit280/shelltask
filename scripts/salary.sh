@@ -8,6 +8,9 @@ read sal
 if [ $sal -lt 30000 ];
 then
         echo "No Tax"
+elif [ $sal -eq 30000 ];
+then
+	echo "Tax is 5%"
 elif [ $sal -gt 30000 -a $sal -le 40000 ];
 then
         echo "Tax is 10%"
